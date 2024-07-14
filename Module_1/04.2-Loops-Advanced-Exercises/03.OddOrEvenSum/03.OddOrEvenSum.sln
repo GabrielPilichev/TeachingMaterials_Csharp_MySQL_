@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.OddOrEvenSum", "03.OddOrEvenSum\03.OddOrEvenSum.csproj", "{3DEE101E-9123-4906-AA11-AE8B0A7CADB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DEE101E-9123-4906-AA11-AE8B0A7CADB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DEE101E-9123-4906-AA11-AE8B0A7CADB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DEE101E-9123-4906-AA11-AE8B0A7CADB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DEE101E-9123-4906-AA11-AE8B0A7CADB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA9B4807-D4CA-470F-89A4-A8879F8D6DA3}
+	EndGlobalSection
+EndGlobal
